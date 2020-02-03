@@ -24,9 +24,8 @@ body > div::after {
 div > div {
     display: inline-block;
     width: 20%;
-    text-align: left;
     float: left;
-    text-align: left;
+
 }
 
 h1 {
